@@ -1,0 +1,10 @@
+SET(SOURCES ui_Screen1.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_pressure_guage_export_png.c
+    ui_img_main_gauge_export_png.c
+    ui_img_needle_export_2_png.c
+    fonts/ui_font_Digital.c)
+
+add_library(ui ${SOURCES})

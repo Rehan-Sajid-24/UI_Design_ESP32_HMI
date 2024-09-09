@@ -1,0 +1,16 @@
+{
+  "codename": "SF_Sports_Night_Medium",
+  "ttf_path": "/assets/SF Sports Night NS.ttf",
+  "bin_path": "/assets\\ui_font_SF_Sports_Night_Medium.bin",
+  "c_path": "/assets\\ui_font_SF_Sports_Night_Medium.c",
+  "cfg_path": "/assets\\ui_font_SF_Sports_Night_Medium.fcfg",
+  "size": 20,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

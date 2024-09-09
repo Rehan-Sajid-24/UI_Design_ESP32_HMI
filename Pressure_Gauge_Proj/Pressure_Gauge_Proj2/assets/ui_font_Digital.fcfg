@@ -1,0 +1,16 @@
+{
+  "codename": "Digital",
+  "ttf_path": "/assets/digital-7.ttf",
+  "bin_path": "/assets\\ui_font_Digital.bin",
+  "c_path": "/assets\\ui_font_Digital.c",
+  "cfg_path": "/assets\\ui_font_Digital.fcfg",
+  "size": 9,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
